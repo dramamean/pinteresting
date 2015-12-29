@@ -1,0 +1,19 @@
+current directory: /home/drama/Desktop/pinteresting/vendor/cache/ruby/2.3.0/gems/byebug-8.2.1/ext/byebug
+/home/drama/.rvm/rubies/ruby-2.3.0/bin/ruby -r ./siteconf20151227-2839-1ep7jaa.rb extconf.rb
+creating Makefile
+
+current directory: /home/drama/Desktop/pinteresting/vendor/cache/ruby/2.3.0/gems/byebug-8.2.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/drama/Desktop/pinteresting/vendor/cache/ruby/2.3.0/gems/byebug-8.2.1/ext/byebug
+make "DESTDIR="
+compiling locker.c
+compiling byebug.c
+compiling context.c
+compiling threads.c
+compiling breakpoint.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/drama/Desktop/pinteresting/vendor/cache/ruby/2.3.0/gems/byebug-8.2.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20151227-2839-1yvckcw/byebug
